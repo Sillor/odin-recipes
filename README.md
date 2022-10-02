@@ -1,6 +1,5 @@
 # odin-recipes
 The Odin Project first project
 
-This is a project for a simple recipe book using just HTML.
-This project is from The Oding Project coding bootcamp
-and allows to test and show some knowledge in the basic HTML.
+This is a project for a simple recipe book using just HTML and CSS.\
+This project is from The Oding Project coding bootcamp and allows to test and show some knowledge in the basic HTML and CSS.
